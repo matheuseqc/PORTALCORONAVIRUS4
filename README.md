@@ -5,7 +5,6 @@
 </head>
 <body>
 	<h1> TRATAMENTO DO CORONAVÍRUS </h1>
-
 	<b>O tratamento indicado para a Covid-19 é meramente sintomático nos casos leves, sendo que instituições<BR> europeias como o Ministério da Saúde da França têm recomendado que fármacos como o Ibuprofeno e a <Br>
 	Cortisona sejam evitados, dando preferência ao paracetamol e a dipirona</b>.<BR>
 	<BR>
